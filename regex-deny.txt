@@ -1,0 +1,4 @@
+(\.|^)(facebook\.com|facebook\.net|fb\.com|fb\.me|fbcdn\.net|fbcdn\.com|fbsbx\.com|instagram\.com|cdninstagram\.com|threads\.net)$
+(\.|^)(tiktok\.com|tiktokv\.com|tiktokcdn\.com|tiktokcdn-us\.com|byteoversea\.com|ibytedtos\.com|ibyteimg\.com|musical\.ly|muscdn\.com)$
+(\.|^)(twitter\.com|x\.com|twimg\.com|t\.co)$
+(\.|^)(snapchat\.com|sc-cdn\.net)$
